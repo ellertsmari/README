@@ -21,6 +21,7 @@ out to these people if you're in need for some guidence.
 
 - [@arnarthor](https://github.com/arnarthor)
 - [@benediktvaldez](https://github.com/benediktvaldez)
+- [@ellertsmari](https://github.com/ellertsmari)
 - [@koddsson](https://github.com/koddsson)
 
 If you'd like to be on this list, add it and create a PR. Let's try to keep it maintainable and comprehensable by
